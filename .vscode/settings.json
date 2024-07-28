@@ -15,4 +15,10 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
+   "emmet.syntaxProfiles": {
+
+   },
+   "emmet.triggerExpansionOnTab": true,
+   "emmet.includeLanguages": {
+        "html": "html"
 }

@@ -11,5 +11,5 @@ def get_todo_list(request):
     return render(request, "todo/todo_list.html", context)
 
 
-def add_itme(request):
+def add_item(request):
     return render(request, "todo/add_item.html")
